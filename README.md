@@ -21,8 +21,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### ✅ Built With
 
-- HTML5 semantic elements
-- CSS3
+- HTML 
+- CSS
 - Flexbox
 - Mobile-first workflow
 
