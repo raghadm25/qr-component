@@ -16,7 +16,7 @@ body {
     height: 33rem;
 }
 
-.card img {
+.card .qrcard img {
     width: 18rem;
     height: 20rem;
     border-radius: 1rem;
