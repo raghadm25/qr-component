@@ -23,8 +23,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 - HTML 
 - CSS
-- Flexbox
-- Mobile-first workflow
 
 ---
 
