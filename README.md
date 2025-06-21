@@ -6,7 +6,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## 📸 Screenshot
 
-![Desktop preview](./design/desktop-preview.jpg)
+![Desktop preview](./images/Screenshot%202025-06-21%20040849.png)
 
 ---
 
